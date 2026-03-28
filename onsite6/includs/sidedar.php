@@ -39,7 +39,7 @@
               <a class="nav-link" href="comment.php">Comments </a>
                 </li>
            <li class="nav-item">
-              <a class="nav-link" href="">Contact.php </a>
+              <a class="nav-link" href="contact.php">Contact </a>
                 </li>
       </ul>
       <a href="contact.php" class="btn btn-danger px-3 py-2 rounded-pill text-light flex-end mx-3 "><i class="fa-solid fa-phone mx-2 fa-2"></i>+012345678</a>
