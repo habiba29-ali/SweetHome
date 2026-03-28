@@ -1,0 +1,28 @@
+ .bg-hero {
+            background-image: url('../asset/backgroundheader.jpg');
+            height: 94vh;
+            background-size: cover;
+            background-position: center;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            ;
+        }
+
+        .category {
+            background-image: url('../asset/backgroundmenu.jpg');
+            height: 90vh;
+            background-size: cover;
+            background-position: center;
+            display: flex;
+
+
+        }
+        .cards{
+           background-image: url('../asset/backgroundmenu.jpg');
+            height: 100vh;
+            background-size: cover;
+            background-position: center;
+            display: flex;
+
+        }
