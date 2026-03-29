@@ -7,8 +7,7 @@ if (!$product_id) {
     echo "<h3 style='text-align:center; color:red;'>Product not found</h3>";
     exit;
 }
-
-// جلب المنتج
+     
 $stmt = $pdo->prepare("SELECT * FROM products WHERE id = ?");
 $stmt->execute([$product_id]);
 $item = $stmt->fetch();
